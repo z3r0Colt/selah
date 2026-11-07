@@ -1,0 +1,28 @@
+{
+  "KJV": {
+    "publisherMetadataId": "de4e12af7f28f599",
+    "identification": {
+      "name": "King James Version + Apocrypha",
+      "nameLocal": "King James Version + Apocrypha",
+      "abbreviation": "eng-kjv",
+      "abbreviationLocal": "KJVD",
+      "scope": "Bible with Deuterocanon",
+      "description": "The King James Version or Authorized Version of the Holy Bible, using the standardized text of 1769, with Apocrypha/Deuterocanon",
+      "dateCompleted": "1769"
+    },
+    "metadataSha256": "45d1adcc2f11b9cfd7edb8599ae1d33a023723883f332743a6c80837a22a3ed2"
+  },
+  "ASV": {
+    "publisherMetadataId": "06125adad2d5898a",
+    "identification": {
+      "name": "American Standard Version (1901)",
+      "nameLocal": "American Standard Version (1901)",
+      "abbreviation": "eng-asv",
+      "abbreviationLocal": "ASV",
+      "scope": "Bible without Deuterocanon",
+      "description": "The American Standard Version of the Holy Bible, first published in 1901.",
+      "dateCompleted": "1901"
+    },
+    "metadataSha256": "3ac63bb6334bee1632e12c7a28b7473ff16a271934e0929620382dd40df89d1b"
+  }
+}
